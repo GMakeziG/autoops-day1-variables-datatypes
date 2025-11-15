@@ -9,8 +9,10 @@ This project includes:
 
 ## Structure
 
+```
 autoops-day1/
 ├── bash/
 ├── powershell/
 ├── python/
 └── data/
+```
